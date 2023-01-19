@@ -570,7 +570,8 @@ a {
 .contact__img__box {
 	position: absolute;
 	left: 5px;
-	top: -50px;
+	top: 0px;
+	transform: translate(-0%, -50%);
 	width: 10vh;
 	height: 229px;
 	animation: 2500ms;
