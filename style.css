@@ -646,6 +646,7 @@ a {
 		justify-content: flex-end;
 	}
 	.navbar__menu__item {
+		color: #71787d;
 		cursor: pointer;
 		position: relative;
 	}
@@ -817,6 +818,9 @@ a {
 	}
 	#home {
 		padding-top: 50px;
+	}
+	.home__main__title {
+		margin-top: 100px;
 	}
 	.home__main__title > h1 {
 		font-size: 140px;
